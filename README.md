@@ -19,3 +19,17 @@ Robot maju jika jalan aman.
 Robot berbelok saat ada obstacle.
 
 Logika Behavior Tree sederhana untuk kontrol gerak robot.
+
+Kesimpulan
+
+Robot dapat bergerak dan sensor LIDAR mendeteksi obstacle.
+
+Namun, robot belum bisa menghindari obstacle dengan baik, kadang tetap menabrak atau terbalik.
+
+Untuk pengembangan selanjutnya, disarankan:
+
+Menambahkan deteksi obstacle samping.
+
+Mengatur kecepatan linear dan angular proporsional.
+
+Menambahkan strategi belok lebih cerdas.
