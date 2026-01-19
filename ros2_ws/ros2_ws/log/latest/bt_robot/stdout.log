@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/bt_robot/bt_robot.egg-info
+writing ../../build/bt_robot/bt_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/bt_robot/bt_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/bt_robot/bt_robot.egg-info/entry_points.txt
+writing requirements to ../../build/bt_robot/bt_robot.egg-info/requires.txt
+writing top-level names to ../../build/bt_robot/bt_robot.egg-info/top_level.txt
+writing manifest file '../../build/bt_robot/bt_robot.egg-info/SOURCES.txt'
+reading manifest file '../../build/bt_robot/bt_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/bt_robot/bt_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/erik/ros2_ws/build/bt_robot/build
+creating /home/erik/ros2_ws/build/bt_robot/build/lib
+creating /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot
+copying bt_robot/bt_node.py -> /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot
+copying bt_robot/__init__.py -> /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot
+running install
+running install_lib
+creating /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot
+copying /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot/bt_node.py -> /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot
+copying /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot/__init__.py -> /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot
+byte-compiling /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot/bt_node.py to bt_node.cpython-310.pyc
+byte-compiling /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/erik/ros2_ws/install/bt_robot/share/ament_index
+creating /home/erik/ros2_ws/install/bt_robot/share/ament_index/resource_index
+creating /home/erik/ros2_ws/install/bt_robot/share/ament_index/resource_index/packages
+copying resource/bt_robot -> /home/erik/ros2_ws/install/bt_robot/share/ament_index/resource_index/packages
+copying package.xml -> /home/erik/ros2_ws/install/bt_robot/share/bt_robot
+running install_egg_info
+Copying ../../build/bt_robot/bt_robot.egg-info to /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing bt_node script to /home/erik/ros2_ws/install/bt_robot/lib/bt_robot
+writing list of installed files to '/home/erik/ros2_ws/build/bt_robot/install.log'

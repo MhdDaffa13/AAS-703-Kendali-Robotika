@@ -1,0 +1,3 @@
+[console_scripts]
+bt_node = bt_robot.bt_node:main
+

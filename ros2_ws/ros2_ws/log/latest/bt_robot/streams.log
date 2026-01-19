@@ -1,0 +1,37 @@
+[1.020s] Invoking command in '/home/erik/ros2_ws/src/bt_robot': PYTHONPATH=/home/erik/ros2_ws/build/bt_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bt_robot build --build-base /home/erik/ros2_ws/build/bt_robot/build install --record /home/erik/ros2_ws/build/bt_robot/install.log --single-version-externally-managed install_data
+[1.408s] running egg_info
+[1.409s] creating ../../build/bt_robot/bt_robot.egg-info
+[1.409s] writing ../../build/bt_robot/bt_robot.egg-info/PKG-INFO
+[1.410s] writing dependency_links to ../../build/bt_robot/bt_robot.egg-info/dependency_links.txt
+[1.411s] writing entry points to ../../build/bt_robot/bt_robot.egg-info/entry_points.txt
+[1.411s] writing requirements to ../../build/bt_robot/bt_robot.egg-info/requires.txt
+[1.411s] writing top-level names to ../../build/bt_robot/bt_robot.egg-info/top_level.txt
+[1.411s] writing manifest file '../../build/bt_robot/bt_robot.egg-info/SOURCES.txt'
+[1.414s] reading manifest file '../../build/bt_robot/bt_robot.egg-info/SOURCES.txt'
+[1.414s] writing manifest file '../../build/bt_robot/bt_robot.egg-info/SOURCES.txt'
+[1.415s] running build
+[1.415s] running build_py
+[1.415s] creating /home/erik/ros2_ws/build/bt_robot/build
+[1.416s] creating /home/erik/ros2_ws/build/bt_robot/build/lib
+[1.416s] creating /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot
+[1.417s] copying bt_robot/bt_node.py -> /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot
+[1.417s] copying bt_robot/__init__.py -> /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot
+[1.417s] running install
+[1.417s] running install_lib
+[1.418s] creating /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot
+[1.418s] copying /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot/bt_node.py -> /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot
+[1.418s] copying /home/erik/ros2_ws/build/bt_robot/build/lib/bt_robot/__init__.py -> /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot
+[1.419s] byte-compiling /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot/bt_node.py to bt_node.cpython-310.pyc
+[1.419s] byte-compiling /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot/__init__.py to __init__.cpython-310.pyc
+[1.420s] running install_data
+[1.420s] creating /home/erik/ros2_ws/install/bt_robot/share/ament_index
+[1.420s] creating /home/erik/ros2_ws/install/bt_robot/share/ament_index/resource_index
+[1.420s] creating /home/erik/ros2_ws/install/bt_robot/share/ament_index/resource_index/packages
+[1.420s] copying resource/bt_robot -> /home/erik/ros2_ws/install/bt_robot/share/ament_index/resource_index/packages
+[1.421s] copying package.xml -> /home/erik/ros2_ws/install/bt_robot/share/bt_robot
+[1.421s] running install_egg_info
+[1.423s] Copying ../../build/bt_robot/bt_robot.egg-info to /home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages/bt_robot-0.0.0-py3.10.egg-info
+[1.425s] running install_scripts
+[1.458s] Installing bt_node script to /home/erik/ros2_ws/install/bt_robot/lib/bt_robot
+[1.459s] writing list of installed files to '/home/erik/ros2_ws/build/bt_robot/install.log'
+[1.520s] Invoked command in '/home/erik/ros2_ws/src/bt_robot' returned '0': PYTHONPATH=/home/erik/ros2_ws/build/bt_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/erik/ros2_ws/install/bt_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bt_robot build --build-base /home/erik/ros2_ws/build/bt_robot/build install --record /home/erik/ros2_ws/build/bt_robot/install.log --single-version-externally-managed install_data
